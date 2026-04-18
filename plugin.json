@@ -1,0 +1,7 @@
+{
+  "name": "Offshore Platforms",
+  "version": "1.0.0",
+  "author": "Abraham",
+  "description": "Platforms with permanent labels",
+  "entry": "plugin.js"
+}

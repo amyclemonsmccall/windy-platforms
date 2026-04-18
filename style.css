@@ -1,0 +1,8 @@
+.platform-label {
+    background: rgba(0,0,0,0.7);
+    color: #00ffcc;
+    border: 1px solid #00ffcc;
+    padding: 2px 6px;
+    font-size: 12px;
+    font-weight: bold;
+}
